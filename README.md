@@ -11,8 +11,11 @@ En la otra parte referente a la batalla, se tiene el componente Batalla.tsx que 
 
 El ganador de la batalla se determina solamente por el tipo de pokémon. 
 
-
-
+#inicializar proyecto de forma local
+```js
+npm install
+npm run dev
+```
 
 # React + TypeScript + Vite
 
