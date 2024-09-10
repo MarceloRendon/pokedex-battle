@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnpm/
+.vscode/
+dist/
+.eslintcache
+
+# Vite
+.vite/
+.vitest/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Local environment files
+.env
+.env.local
+.env.*.local
